@@ -1,3 +1,3 @@
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
-[personal website](https://sven-li-sankyu.github.io/)
+[personal website](https://sven-li-sankyuu.github.io/)
