@@ -1,5 +1,5 @@
 ---
-title: 'Interpreting Fedspeak with Confidence: A LLM-Based Uncertainty-Aware Framework'
+title: 'Interpreting Fedspeak with Confidence: A LLM-Based Uncertainty-Aware Framework Guided by Monetary Policy Transmission Paths'
 authors:
   - Rui Yao
   - Qi Chai
@@ -20,8 +20,8 @@ date: '2025-08-12T00:00:00Z'
 doi: ''
 publishDate: '2025-01-01T00:00:00Z'
 publication_types: ['paper-conference']
-publication: In *arXiv preprint*
-publication_short: In *arXiv*
+publication: In *AAAI 2026* Oral
+publication_short: In *AAAI 2026* Oral
 abstract: '"Fedspeak", the stylized and often nuanced language used by the U.S. Federal Reserve, encodes implicit policy signals and strategic stances. The Federal Open Market Committee strategically employs Fedspeak as a communication tool to shape market expectations and influence both domestic and global economic conditions. As such, automatically parsing and interpreting Fedspeak presents a high-impact challenge, with significant implications for financial forecasting, algorithmic trading, and data-driven policy analysis. In this paper, we propose an LLM-based, uncertainty-aware framework for deciphering Fedspeak and classifying its underlying monetary policy stance. Technically, to enrich the semantic and contextual representation of Fedspeak texts, we incorporate domain-specific reasoning grounded in the monetary policy transmission mechanism. We further introduce a dynamic uncertainty decoding module to assess the confidence of model predictions, thereby enhancing both classification accuracy and model reliability. Experimental results demonstrate that our framework achieves state-of-the-art performance on the policy stance analysis task.'
 summary: An LLM-based uncertainty-aware framework for interpreting Federal Reserve communications with enhanced reliability.
 tags:
