@@ -105,7 +105,7 @@ function createMatrixAboutMeBackgroundIframe() {
 
 **正确路径**：`static/backgrounds/` → URL: `/backgrounds/`
 - Hugo 会将 `static/` 目录直接映射到网站根目录
-- 生产环境访问：`https://siyuanli-sven.github.io/backgrounds/mlp-bg.html`
+- 生产环境访问：`https://sven-li-sankyu.github.io/backgrounds/mlp-bg.html`
 
 **错误路径**：`assets/media/` → Hugo 编译时处理，不适合 iframe 直接访问
 

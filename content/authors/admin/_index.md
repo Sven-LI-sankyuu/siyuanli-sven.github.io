@@ -38,7 +38,7 @@ profiles:
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/SiyuanLi-Sven
+    url: https://github.com/Sven-LI-sankyu
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/siyuan-li-8b820b218/
   - icon: academicons/google-scholar
